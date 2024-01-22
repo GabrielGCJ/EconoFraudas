@@ -1,6 +1,6 @@
 import { HeaderContainer, ImageLogo, ComparativeButton } from "./styles";
-import logo from "../../assets/logo-EconoFraudas.png"
-import imagemComparativo from '../../assets/imagem-comparativo.jpeg'
+import logo from "../../assets/logo-econoFraudas.png"
+import imagemComparativo from '../../assets/image-comparador.png'
 export const Header = () => {
   return (
     <div>

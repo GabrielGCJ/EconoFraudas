@@ -5,7 +5,7 @@ export const App = () => {
   return (
     <div>
       <Header/>
-        <h1>EconoFraudas</h1>
+        {/* <h1>EconoFraudas</h1> */}
       <GlobalStyle/>
     </div>
   )
